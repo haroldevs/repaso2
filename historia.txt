@@ -4,3 +4,5 @@ tiene 26 años aprender Git para DevOps naci en cusco
 
 
 preparando para agregar
+
+estar en cabezera
