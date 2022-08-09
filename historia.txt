@@ -1,3 +1,6 @@
 esta es la historia de Harold Galdo
 
 tiene 26 años aprender Git para DevOps naci en cusco
+
+
+preparando para agregar
