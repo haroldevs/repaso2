@@ -4,5 +4,6 @@ tiene 26 años aprender Git para DevOps naci en cusco
 este es agregado por master
 
 preparando para agregar
-master a brach
+
+conflicto en  cabezera
 estar en cabezera
